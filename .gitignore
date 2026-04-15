@@ -1,0 +1,10 @@
+# Ocultar el código fuente en GitHub (solo tú lo verás localmente)
+convertidor.py
+
+# Ignorar archivos generados por PyInstaller
+build/
+*.spec
+__pycache__/
+
+# Asegurarse de que el ejecutable sí se suba a GitHub
+!dist/convertidor.exe
