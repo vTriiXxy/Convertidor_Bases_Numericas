@@ -1,5 +1,7 @@
 # Ocultar el código fuente en GitHub (solo tú lo verás localmente)
-convertidor.py
+convertidor_V1.0.spec
+convertidor_V1.0.py
+convertidor_V1.1.py
 
 # Ignorar archivos generados por PyInstaller
 build/
